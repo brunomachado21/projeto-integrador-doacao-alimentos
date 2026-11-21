@@ -1,6 +1,6 @@
 # Plataforma de divulgação e reserva de alimentos excedentes em Itapetinga–BA
 
-Projeto Integrador do curso de Tecnologia em Análise e Desenvolvimento de Sistemas da Universidade Estadual do Sudoeste da Bahia (UESB), em parceria com a Universidade Aberta do Brasil (UAB).
+Projeto Integrador do curso de Tecnologia em Análise e Desenvolvimento de Sistemas da Universidade Estadual do Sudoeste da Bahia (UESB).
 
 ## Objetivo geral
 
